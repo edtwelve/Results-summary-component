@@ -82,19 +82,36 @@ body {
 
 .score-breakdown {
     padding: 20px;
+    margin-top: 10px;
 }
 
 b {
     color: var(--dark-gray-blue);
 }
+
+.total {
+    color: rgba(107, 105, 105, 0.757);
+}
 .category {
     display: flex;
     justify-content: space-between;
-
+    margin: 24px 0;
+    padding: 15px;
+    border-radius: 8px;
 }
 
 .left {
     display: flex;
+    align-items: center;
+}
+
+.left img {
+    margin-right: 12px;
+}
+
+.right {
+    display: flex;
+    align-items: center;
 }
 .reaction {
     color: var(--light-red);
@@ -125,4 +142,5 @@ button {
     border-radius: 45px;
     padding: 16px;
     font-size: 18px;
+    margin-top: 28px;
 }
