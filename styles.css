@@ -144,3 +144,7 @@ button {
     font-size: 18px;
     margin-top: 28px;
 }
+
+button:hover {
+    cursor: pointer;
+}
