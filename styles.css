@@ -14,13 +14,13 @@
 
     /*Categorías*/
     --light-red: hsl(0, 100%, 67%);
-    --lighter-red: hsla(0, 100%, 67%, 0.1);
+    --lighter-red: hsla(0, 100%, 67%, 0.05);
     --orangey-yellow: hsl(39, 100%, 56%);
-    --orangey-yellow-light: hsla(39, 100%, 56%, 0.1);
+    --orangey-yellow-light: hsla(39, 100%, 56%, 0.05);
     --green-teal: hsl(166, 100%, 37%);
-    --green-teal-light: hsla(166, 100%, 37%, 0.1);
+    --green-teal-light: hsla(166, 100%, 37%, 0.05);
     --cobalt-blue: hsl(234, 85%, 45%);
-    --cobalt-blue-light: hsla(234, 85%, 45%, 0.1);
+    --cobalt-blue-light: hsla(234, 85%, 45%, 0.05);
 
     /*Gradients*/
         /*background*/
